@@ -1,6 +1,4 @@
-## Hi there 👋
-
-We're two nerds with a shared braincell.
+Two nerds with a shared braincell.
 
 <!--
 
